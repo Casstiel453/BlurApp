@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+LINK : warning LNK4075: zignorowano opcję „/INCREMENTAL” z powodu określenia opcji „/RELEASE”
+     Trwa tworzenie biblioteki ..\RozmycieApp\bin\Debug\Asm.lib i obiektu ..\RozmycieApp\bin\Debug\Asm.exp
+  Asm.vcxproj -> D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieApp\bin\Debug\Asm.dll

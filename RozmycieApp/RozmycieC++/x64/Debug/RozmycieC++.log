@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (RozmycieC++.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Rozmycie.cpp
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(22,25): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(23,20): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(25,24): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(33,35): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(34,33): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(39,36): warning C4244: "inicjowanie": konwersja z "uint64_t" do "int", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(55,39): warning C4244: "=": konwersja z "float" do "uint8_t", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(57,39): warning C4244: "=": konwersja z "float" do "uint8_t", możliwa utrata danych
+D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(59,39): warning C4244: "=": konwersja z "float" do "uint8_t", możliwa utrata danych
+     Trwa tworzenie biblioteki ..\RozmycieApp\bin\Debug\RozmycieCPP.lib i obiektu ..\RozmycieApp\bin\Debug\RozmycieCPP.exp
+  RozmycieC++.vcxproj -> D:\grafika\Nowy folder\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieCPP.dll
